@@ -1,2 +1,4 @@
-# README
-第一次添加内容
+# demo
+demo to learn github
+first step in Github
+第二次更改GitHub
